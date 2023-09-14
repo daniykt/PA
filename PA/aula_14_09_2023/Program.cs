@@ -22,6 +22,7 @@ namespace aula_14_09_2023
 
             media = (n1 + n2 + n3 + n4) / 4;
 
+            Outras formas
             Console.WriteLine("A média: " + media);
 
             Console.WriteLine("A média: " + (n1 + n2 + n3 + n4) / 4);
