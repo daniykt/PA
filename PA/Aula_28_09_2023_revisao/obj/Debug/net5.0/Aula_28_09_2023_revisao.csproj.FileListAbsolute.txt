@@ -1,0 +1,16 @@
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.exe
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.deps.json
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.runtimeconfig.json
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.runtimeconfig.dev.json
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.dll
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\ref\Aula_28_09_2023_revisao.dll
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\bin\Debug\net5.0\Aula_28_09_2023_revisao.pdb
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.csproj.AssemblyReference.cache
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.AssemblyInfoInputs.cache
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.AssemblyInfo.cs
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.csproj.CoreCompileInputs.cache
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.dll
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\ref\Aula_28_09_2023_revisao.dll
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.pdb
+C:\PA1\PA1\PA\Aula_28_09_2023_revisao\obj\Debug\net5.0\Aula_28_09_2023_revisao.genruntimeconfig.cache
