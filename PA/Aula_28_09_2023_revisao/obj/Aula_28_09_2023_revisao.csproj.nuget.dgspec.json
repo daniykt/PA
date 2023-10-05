@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PA1\\PA1\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj": {}
+    "C:\\PA\\PA\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj": {}
   },
   "projects": {
-    "C:\\PA1\\PA1\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj": {
+    "C:\\PA\\PA\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PA1\\PA1\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj",
+        "projectUniqueName": "C:\\PA\\PA\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj",
         "projectName": "Aula_28_09_2023_revisao",
-        "projectPath": "C:\\PA1\\PA1\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj",
+        "projectPath": "C:\\PA\\PA\\PA\\Aula_28_09_2023_revisao\\Aula_28_09_2023_revisao.csproj",
         "packagesPath": "C:\\Users\\Etec\\.nuget\\packages\\",
-        "outputPath": "C:\\PA1\\PA1\\PA\\Aula_28_09_2023_revisao\\obj\\",
+        "outputPath": "C:\\PA\\PA\\PA\\Aula_28_09_2023_revisao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
