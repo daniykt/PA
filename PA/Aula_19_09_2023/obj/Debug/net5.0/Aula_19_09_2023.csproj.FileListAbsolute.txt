@@ -21,7 +21,6 @@ C:\PA\PA\PA\Aula_19_09_2023\bin\Debug\net5.0\Aula_19_09_2023.runtimeconfig.dev.j
 C:\PA\PA\PA\Aula_19_09_2023\bin\Debug\net5.0\Aula_19_09_2023.dll
 C:\PA\PA\PA\Aula_19_09_2023\bin\Debug\net5.0\ref\Aula_19_09_2023.dll
 C:\PA\PA\PA\Aula_19_09_2023\bin\Debug\net5.0\Aula_19_09_2023.pdb
-C:\PA\PA\PA\Aula_19_09_2023\obj\Debug\net5.0\Aula_19_09_2023.csproj.AssemblyReference.cache
 C:\PA\PA\PA\Aula_19_09_2023\obj\Debug\net5.0\Aula_19_09_2023.GeneratedMSBuildEditorConfig.editorconfig
 C:\PA\PA\PA\Aula_19_09_2023\obj\Debug\net5.0\Aula_19_09_2023.AssemblyInfoInputs.cache
 C:\PA\PA\PA\Aula_19_09_2023\obj\Debug\net5.0\Aula_19_09_2023.AssemblyInfo.cs

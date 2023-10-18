@@ -9,22 +9,20 @@ namespace _05_10_2023_EX3
 
             float salario, ganham;
 
-            Console.Write("Digite o seu salário: ");
-            salario = float.Parse(Console.ReadLine());
+            //Console.Write("Digite o seu salário: ");
+            //salario = float.Parse(Console.ReadLine());
 
-            ganham = (salario * 50) / 100;
+            //if (ganham <= 3000)
+            //   Console.WriteLine("Seu reajuste: 50%");
 
-            if (ganham = )
-               Console.WriteLine("Seu reajuste: 50%");
+            //else if (ganham < 7000)
+            //    Console.WriteLine("Seu reajuste: 20%");
 
-            else if (ganham < 7000)
-                Console.WriteLine("Seu reajuste: 20%");
+            //else if (ganham < 10000)
+            //    Console.WriteLine("Seu reajuste: 15%");
 
-            else if (ganham < 10000)
-                Console.WriteLine("Seu reajuste: 15%");
-
-            else
-                Console.WriteLine("10% Para os demais Funcionários");
+            //else
+            //    Console.WriteLine("10% Para os demais Funcionários");
 
         }
     }

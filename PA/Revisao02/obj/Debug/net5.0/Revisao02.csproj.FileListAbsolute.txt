@@ -21,7 +21,6 @@ C:\PA\PA\PA\Revisao02\bin\Debug\net5.0\Revisao02.runtimeconfig.dev.json
 C:\PA\PA\PA\Revisao02\bin\Debug\net5.0\Revisao02.dll
 C:\PA\PA\PA\Revisao02\bin\Debug\net5.0\ref\Revisao02.dll
 C:\PA\PA\PA\Revisao02\bin\Debug\net5.0\Revisao02.pdb
-C:\PA\PA\PA\Revisao02\obj\Debug\net5.0\Revisao02.csproj.AssemblyReference.cache
 C:\PA\PA\PA\Revisao02\obj\Debug\net5.0\Revisao02.GeneratedMSBuildEditorConfig.editorconfig
 C:\PA\PA\PA\Revisao02\obj\Debug\net5.0\Revisao02.AssemblyInfoInputs.cache
 C:\PA\PA\PA\Revisao02\obj\Debug\net5.0\Revisao02.AssemblyInfo.cs
